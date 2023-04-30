@@ -5,7 +5,9 @@ public class Aplic {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		//Scanner
 		Scanner scanner = new Scanner(System.in);
+		//Livro
 		Livro livro = new Livro();
 		
 		livro.SetId(1);
